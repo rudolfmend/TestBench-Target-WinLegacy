@@ -30,7 +30,7 @@ TestBench Target WinLegacy was specifically created for Windows 7, 8, and 8.1 en
 1. Start the application
 2. Click on "Open Application" on the main screen
 3. In the second window, you can:
-   - Select dates from the dropdown
+   - Select dates from the dropdown - use the arrow keys and also the mouse wheel
    - Add entries with procedure names, points, and delegate information
    - Save and load data to/from JSON files
    - Delete selected entries
