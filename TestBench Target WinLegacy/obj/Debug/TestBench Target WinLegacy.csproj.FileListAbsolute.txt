@@ -1,0 +1,14 @@
+C:\Users\rudol\source\repos\TestBench Target WinLegacy\TestBench Target WinLegacy\bin\Debug\TestBench Target WinLegacy.exe.config
+C:\Users\rudol\source\repos\TestBench Target WinLegacy\TestBench Target WinLegacy\bin\Debug\TestBench Target WinLegacy.exe
+C:\Users\rudol\source\repos\TestBench Target WinLegacy\TestBench Target WinLegacy\bin\Debug\TestBench Target WinLegacy.pdb
+C:\Users\rudol\source\repos\TestBench Target WinLegacy\TestBench Target WinLegacy\obj\Debug\TestBench Target WinLegacy.csproj.AssemblyReference.cache
+C:\Users\rudol\source\repos\TestBench Target WinLegacy\TestBench Target WinLegacy\obj\Debug\TestBench_Target_WinLegacy.Properties.Resources.resources
+C:\Users\rudol\source\repos\TestBench Target WinLegacy\TestBench Target WinLegacy\obj\Debug\TestBench Target WinLegacy.csproj.GenerateResource.cache
+C:\Users\rudol\source\repos\TestBench Target WinLegacy\TestBench Target WinLegacy\obj\Debug\TestBench Target WinLegacy.csproj.CoreCompileInputs.cache
+C:\Users\rudol\source\repos\TestBench Target WinLegacy\TestBench Target WinLegacy\obj\Debug\TestBench Target WinLegacy.exe
+C:\Users\rudol\source\repos\TestBench Target WinLegacy\TestBench Target WinLegacy\obj\Debug\TestBench Target WinLegacy.pdb
+C:\Users\rudol\source\repos\TestBench Target WinLegacy\TestBench Target WinLegacy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rudol\source\repos\TestBench Target WinLegacy\TestBench Target WinLegacy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rudol\source\repos\TestBench Target WinLegacy\TestBench Target WinLegacy\obj\Debug\TestBenc.FBD38720.Up2Date
+C:\Users\rudol\source\repos\TestBench Target WinLegacy\TestBench Target WinLegacy\obj\Debug\TestBench_Target_WinLegacy.Form1.resources
+C:\Users\rudol\source\repos\TestBench Target WinLegacy\TestBench Target WinLegacy\obj\Debug\TestBench_Target_WinLegacy.Form2.resources
